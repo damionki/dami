@@ -20,7 +20,7 @@ local games = {
     },
     ["Anime Slap Tower"] = {
         Ids = {114928582002436}, 
-        Script = "https://raw.githubusercontent.com/guthibuserx609/FREE/refs/heads/main/JX-ANIME-SLAP-TOWER"
+        Script = "https://raw.githubusercontent.com/damionki/dami/refs/heads/main/Anime%20Slap%20Tower"
     }
 }
 
