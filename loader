@@ -19,7 +19,7 @@ local games = {
         Script = "https://raw.githubusercontent.com/damionki/dami/refs/heads/main/build%20a%20boat%20for%20a%20treasure"
     },
     ["Anime Slap Tower"] = {
-        Ids = {114928582002436}, 
+        Ids = {100055483398966}, 
         Script = "https://raw.githubusercontent.com/damionki/dami/refs/heads/main/Anime%20Slap%20Tower"
     }
 }
